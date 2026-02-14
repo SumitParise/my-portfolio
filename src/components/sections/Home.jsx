@@ -13,7 +13,7 @@ export const Home = () => {
             Hi, I'm Sumit Parise
           </h1>
           <p className="text-gray-400 text-base md:text-lg mb-8 max-w-lg mx-auto">
-           I'm a passionate <strong>.NET Developer with over 2 years of experience</strong> in building <strong>scalable web applications and APIs.</strong> I have hands-on expertise in <strong> Microservice architecture</strong> and <strong>RabbitMQ for efficient, distributed system design.</strong> I’m driven by a continuous desire to <strong>learn new technologies </strong> and <strong> deliver high-performing, user-focused solutions.</strong>
+           I'm a passionate <strong>Software Engineer with over 1+ years of experience</strong> in building <strong>scalable web applications and APIs.</strong> I have hands-on expertise in <strong> Microservice architecture</strong> and <strong>RabbitMQ for efficient, distributed system design.</strong> I’m driven by a continuous desire to <strong>learn new technologies </strong> and <strong> deliver high-performing, user-focused solutions.</strong>
           </p>
           <div className="flex flex-col md:flex-row items-center justify-center gap-4">
             <a

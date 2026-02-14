@@ -1,13 +1,13 @@
 import { RevealOnScroll } from "../RevealOnScroll";
 
 export const About = () => {
-  const frontendSkills = ["HTML/CSS", "JavaScript", "React", "BootStrap"];
+  const frontendSkills = ["HTML/CSS", "JavaScript", "React", "BootStrap","TypeScript","Axios"];
 
-  const backendSkills = ["C#", ".NET Core","Node.Js", "Java"];
+  const backendSkills = ["C#", ".NET Core","Node.Js", "Java","Spring Boot","EF-Core","Hibernate","Docker","Reddis","System Design"];
 
-  const DB = ["MS SQL Server", "MongoDB", "MySQL"];
+  const DB = ["MS SQL Server", "MongoDB", "MySQL","PostgreSQL"];
 
-  const ProjectManagement = ["Agile/Scrum Methodology", "Jira"];
+  const ProjectManagement = ["Agile/Scrum Methodology", "Jira","Git","AzureDevOps"];
 
   return (
     <section
@@ -100,11 +100,11 @@ export const About = () => {
               <h3 className="text-xl font-bold mb-4">💼 Work Experience</h3>
               <div className="space-y-4 text-gray-300">
                 <div>
-                    <h4 className="font-semibold"> Software Developer at Code Icons technology (2023 - present)</h4>
-                    <p> Developed and maintain microservices for mobile-based applications</p>
+                    <h4 className="font-semibold">Software Engineer at The Access Group (2025 - present)</h4>
+                    <p> Developed and maintain microservices for CRS and PMS</p>
                 </div>
                  <div>
-                    <h4 className="font-semibold"> Software Developer Intern at Code Icons technology (Mar-23 to Sept-23)</h4>
+                    <h4 className="font-semibold">Jr. Software Developer at MindSparXs pvt.ltd. (Mar-23 to Sept-23)</h4>
                     <p>Building Frontend Components and integrate REST APIs</p>
                 </div>
               </div>
